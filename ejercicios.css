@@ -1,0 +1,35 @@
+.menuVertical {
+	margin: 30px auto;
+	
+	width: 500px;
+	height: 300px;
+	
+
+	
+}
+
+.campos {
+	background-color: lightgrey;
+	display: flex;
+	margin: 2px;
+	padding: 10px;
+	justify-content: space-between;
+	height: 50px;
+
+
+}
+
+button {
+	height: 25px;
+	width: 70px;
+	align-self: center;
+	background-color: #fff;
+	border: none;
+
+}
+
+a {
+	text-decoration: none;
+	color: black;
+	
+}
